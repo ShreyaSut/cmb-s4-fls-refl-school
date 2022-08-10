@@ -1,4 +1,4 @@
-# cmbs4-fls-school
+# cmb-s4-fls-school
 A few files to carry out the CMB-S4 Instrumentation Summer School Frequency-tunable Laser Source (FLS) laser spectroscopy/reflection lab. 
 
 👋 **NOTE: You can run these virtually on your browser through Google Colaboratory.**
